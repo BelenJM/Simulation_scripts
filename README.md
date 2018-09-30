@@ -8,10 +8,10 @@ Description:
 Script that models the evolution of a diploid bi-locus population
 that evolves with genetic drift and whose genes recombine. 
 We estimate the effective population size by three different methods:
--Decrease in Heterozygosity (He)-based method: for the computation 
-of He we used the method of Nei & Roychoudhury (1974) 
--Temporal method: for the computation Fc (the change in allele frequencies between two different time samples),we used F estimator developed by Nei and Tajima (1981) and Waples (1989).
--Linkage disequilibrium method
+(1) Decrease in Heterozygosity (He)-based method: for the computation 
+of He we used the method of Nei & Roychoudhury (1974);  
+(2) Temporal method: for the computation Fc (the change in allele frequencies between two different time samples),we used F estimator developed by Nei and Tajima (1981) and Waples (1989);
+(3) Linkage disequilibrium method
 
 Parameters
 ----------
